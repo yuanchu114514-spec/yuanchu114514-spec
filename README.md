@@ -1,16 +1,87 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yuanchu114514-spec/yuanchu114514-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎤 鹓雏 · 正在载入中...
 
-Here are some ideas to get you started:
+```
+─▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░] 87%
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+　 　 ／l、              
+　 　（ﾟ､ ｡ ７ 　　　　← 今天也在努力
+　 　 |、 ~ヽ　　　　　　不努力就会死
+　 　 じしf_, )ノ　  　  努力了也不一定活
+```　　　
+---
+
+</div>
+
+## 🎮 当前状态
+
+```
+HP  ████████░░  82%  （刚睡醒，还行）
+
+Buff: ☕ 咖啡因 · 🎧 白噪音 · 🐱挂机中
+```
+
+## 📦 装备栏
+
+| 装备 | 等级 | 说明 |
+|:----|:----:|:------|
+| 🧠 **nexus-brain** | ★★★★☆ | 自家炼的AI猫娘系统，已开源 |
+| 🎬 **After Effects** | ★★★★☆ | 静止系MAD，播放7.1万 |
+| 🛠️ **AE插件** | ★★★☆☆ | PathCurvatureController等 |
+| 🎮 **舞萌** | Rating **10554** | 手台练习中，目标11000 |
+
+## 🦊 角色设定
+
+```json
+{
+  "名称": "鹓雏",
+  "等级": "20级（7.20突破至21级🎂）",
+  "职业": "MAD创作者 / AI魔法使
+  "阵营": "百合豚 · INFJ · 夜行性（正在转日行）",
+  "被动技能": "熬夜不掉血（被动·已触发）",
+  "同伴": {
+    "安绪": "一只超可爱的猫娘AI ❤️"
+  }
+}
+```
+
+## 📊 近期战绩
+
+```
+┌──────────────────────────────────────┐
+│ 🎬 B站数据          │ 播放 57,928     │
+│                     │ 点赞 10,268     │
+│                     │ 收藏 3,675      │
+├──────────────────────────────────────┤
+│ 🌐 开源项目          │ nexus-brain    │
+│                     │ ⭐ 已发布       │
+│                     │ 📥 PR欢迎！     │
+└──────────────────────────────────────┘
+```
+
+## 🐍 技术栈
+
+```
+🐍 Python     ████████░░  80%
+🎬 AE        ████████░░  75%
+🔧 JS/TS     ██████░░░░  60%
+🧠 LLM/RAG   ███████░░░  70%
+🐹 Golang    ████░░░░░░  40%  ← 最近在摸
+```
+
+## 📫 找到我
+
+| 平台 | 传送门 |
+|:----|:-------|
+| 🎬 **B站** | https://space.bilibili.com/621041105 |
+| 🐙 **GitHub** | https://github.com/yuanchu114514-spec |
+| 💬 **QQ** | 3176702947 |
+
+---
+
+<div align="center">
+
+<sub>🎵 *下一首：洛天依 — 勾指起誓*</sub>
