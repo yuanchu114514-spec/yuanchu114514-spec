@@ -88,7 +88,6 @@ Buff: ☕ 咖啡因 · 🎧 白噪音 · 🐱 挂机中
 |:----|:-------|
 | 🎬 **B站** | https://space.bilibili.com/621041105 |
 | 🐙 **GitHub** | https://github.com/yuanchu114514-spec |
-| 💬 **QQ** | 3176702947 |
 
 ---
 
